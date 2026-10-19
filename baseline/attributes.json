@@ -1,0 +1,43 @@
+{
+    "architecture": "x86_64",
+    "cpu_count": 2,
+    "default_gateway": "10.152.0.1",
+    "dns": "nameserver 127.0.0.53",
+    "firewall_status": "Status: inactive",
+    "hostname": "cyberscope",
+    "hosts_file_hash": "4180d400f88a4e1503105c1e95fda29e7cb09652e373934178b6a676242bd8c2",
+    "ip_addresses": [
+        "10.152.0.2"
+    ],
+    "kernel": "6.8.0-1070-gcp",
+    "listening_ports": [
+        53,
+        80
+    ],
+    "mac_addresses": [
+        "42:01:0a:98:00:02"
+    ],
+    "network_interfaces": [
+        "ens4",
+        "lo"
+    ],
+    "os": "Linux",
+    "os_version": "#78~22.04.1-Ubuntu SMP Thu Sep 17 21:46:54 UTC 2026",
+    "processor": "x86_64",
+    "running_services": [
+        " [ + ]  apport",
+        " [ + ]  chrony",
+        " [ + ]  cron",
+        " [ + ]  dbus",
+        " [ + ]  kmod",
+        " [ + ]  nginx",
+        " [ + ]  plymouth",
+        " [ + ]  plymouth-log",
+        " [ + ]  procps",
+        " [ + ]  udev",
+        " [ + ]  ufw",
+        "[ + ]  apparmor"
+    ],
+    "ssh_status": "\u00d7 ssh.service - OpenBSD Secure Shell server",
+    "username": "cyberscope"
+}

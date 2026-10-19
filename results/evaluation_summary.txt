@@ -1,0 +1,8 @@
+CYBERSCOPE EVALUATION SUMMARY
+============================
+
+Total Tests: 10
+Correct Tests: 10
+Detection Accuracy: 100.00%
+False Positive Rate: 0.00%
+Average Detection Time: 0.4674 seconds
